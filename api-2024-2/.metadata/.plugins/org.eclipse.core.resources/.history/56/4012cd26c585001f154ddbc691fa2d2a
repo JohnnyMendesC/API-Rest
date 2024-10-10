@@ -1,0 +1,25 @@
+package br.com.serratec.entity;
+
+import br.com.serratec.enums.Categoria;
+import br.com.serratec.enums.Combustivel;
+import jakarta.persistence.Embeddable;
+import jakarta.persistence.EnumType;
+import jakarta.persistence.Enumerated;
+
+@Embeddable // foi incorporada em outra classe
+public class Caracteristica {
+	private String renavam;
+	private String chassi;
+	private Integer ano;
+	private String cor;
+	
+	@Enumerated(EnumType.STRING) //diz que é um enum
+	private Categoria categoria;
+	
+	@Enumerated(EnumType.ORDINAL) //ordinal salva o codigo do enum
+	private Combustivel combustivel;
+	
+	
+	//Getters Setters
+	
+}

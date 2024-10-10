@@ -1,0 +1,2 @@
+spring.application.name=aula-03-treino
+sping.datasource.url=jdbc:postgresql://localhost:5432/

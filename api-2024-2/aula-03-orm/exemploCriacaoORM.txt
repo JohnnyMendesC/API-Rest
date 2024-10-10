@@ -1,0 +1,24 @@
+exemplo de inicialização de orm
+no springboot  
+-src/main/resources
+--application.properties: 
+e insere o código abaixo
+
+spring.application.name=aula-03-orm
+spring.datasource.url=jdbc:postgresql://localhost:5432/api
+spring.datasource.username = postgres
+spring.datasource.password=serratec*24
+spring.jpa.show-sql= true
+spring.jpa.hibernate.ddl-auto= create
+
+
+depois de criar
+
+spring.application.name=aula-03-orm
+spring.datasource.url=jdbc:postgresql://localhost:5432/api
+spring.datasource.username = postgres
+spring.datasource.password=serratec*24
+spring.jpa.show-sql= true
+spring.jpa.hibernate.ddl-auto=update
+
+se mantiver o create ele apaga e recria toda vez, o update ele mantem

@@ -1,0 +1,13 @@
+package br.com.serratec.entity;
+
+import java.time.LocalDate;
+
+import jakarta.persistence.Id;
+
+public class Item {//a entidade, entity, é onde fica o Item e seus atributos, construtores, getters e setters
+	@Id //cria a primary key
+	@Gene
+	private String nomeDoItem;
+	private float valorDoItem;
+	private LocalDate dataDeCriacaoDoItem = LocalDate.now();
+}

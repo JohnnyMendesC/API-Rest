@@ -1,0 +1,13 @@
+package br.com.serratec.entity;
+
+import jakarta.persistence.Embeddable;
+
+@Embeddable
+public class Endereco {
+	//Atributos
+	private String logradouro;
+	private String numero;
+	private String bairro;
+	private String cidade;
+	private String estado;
+}

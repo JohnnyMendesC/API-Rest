@@ -1,0 +1,16 @@
+package br.com.serratec.controller;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+//spring é programação funcional
+
+
+@RestController
+public class ExemploController {
+
+	@RequestMapping("/exemplos")
+	public String mensagem() {
+		return "Hello World!";
+	}
+}

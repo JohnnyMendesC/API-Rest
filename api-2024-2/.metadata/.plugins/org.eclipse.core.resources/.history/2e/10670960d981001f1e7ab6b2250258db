@@ -1,0 +1,8 @@
+package br.com.serratec.entity;
+
+public class Cliente {
+	private Integer idInteger;
+	private String nomeString;
+	private String email;
+	private String cidade;
+}

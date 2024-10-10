@@ -1,0 +1,9 @@
+AbstractTextEditor.Color.Background=35,35,35
+AbstractTextEditor.Color.FindScope=33,119,152
+STS4BootMarkerIndicationColor=56,84,26
+breakpointIndicationColor=255,0,0
+eclipse.preferences.version=1
+lineSpacing=8
+occurrenceIndicationColor=3,17,24
+undoHistorySize=600
+writeOccurrenceIndicationColor=57,4,45

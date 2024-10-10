@@ -1,0 +1,5 @@
+package br.com.serratec.enums;
+
+public enum Categoria {
+	SUV, HATCH, SEDAN, CONVERSIVEL, PICAPE, ESPORTIVO, COUPE
+}

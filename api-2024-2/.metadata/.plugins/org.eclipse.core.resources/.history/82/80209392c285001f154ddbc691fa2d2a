@@ -1,0 +1,31 @@
+package br.com.serratec.entity;
+
+import jakarta.persistence.Embeddable;
+
+@Embeddable // foi incorporada em outra classe
+public class Caracteristica {
+	private String renavam;
+	private String chassi;
+	private String ano;
+	
+	//Getters Setters
+	public String getRenavam() {
+		return renavam;
+	}
+	public void setRenavam(String renavam) {
+		this.renavam = renavam;
+	}
+	public String getChassi() {
+		return chassi;
+	}
+	public void setChassi(String chassi) {
+		this.chassi = chassi;
+	}
+	public String getAno() {
+		return ano;
+	}
+	public void setAno(String ano) {
+		this.ano = ano;
+	}
+	
+}

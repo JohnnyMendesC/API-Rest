@@ -1,0 +1,10 @@
+package br.com.serratec.entity;
+
+import java.time.LocalDate;
+
+public class Produto {
+	private Long id;
+	private String descricao;
+	private Double valor;
+	private LocalDate dataCadastro;
+}

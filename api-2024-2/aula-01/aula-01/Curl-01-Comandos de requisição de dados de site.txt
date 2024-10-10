@@ -1,0 +1,28 @@
+Pegar todo o conteúdo do site
+curl -l https://www.google.com
+
+Requisição sem o certificado seguro -k
+curl -k https://www.google.com
+ou
+curl -v https://www.google.com
+
+Informações que se pode pegar prontos pro projeto:
+viacep para endereços
+receita ws para consulta de cnpjs
+api previsão do tempo
+api de bancos
+api de personagens(api naruto, pokemon, marvel)
+
+Exemplo acesso a uma api publica mock
+https://jsonplaceholder.typicode.com/guide/
+
+-com todos
+curl -k https://jsonplaceholder.typicode.com/todos
+
+-para acessar o 1 ou o 2 específicamente
+curl -k https://jsonplaceholder.typicode.com/todos/1
+curl -k https://jsonplaceholder.typicode.com/todos/2
+
+
+o GET é o default, mas os outros DELETE, HEAD, PUT, POST, PATCH, OPTIONS,  precisam do -X e alguns do body:
+curl -k -X POST body https://jsonplaceholder.typicode.com/todos/2

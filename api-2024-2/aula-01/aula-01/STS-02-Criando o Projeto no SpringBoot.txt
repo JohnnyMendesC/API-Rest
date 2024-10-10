@@ -1,0 +1,29 @@
+CRIANDO PROJETO NO SPRINGBOOT
+
+new spring project:
+
+https://start.spring.io
+name aula-1
+type maven	jar
+version 17	java
+group br.com.serratec
+artifact aula-1
+version 0.0.1-SNAPSHOT
+drecription Aula1
+package br.com.serratec
+3.3.4
+
+EXTENSÕES
+web, marca Spring Web
+dev, marca Spring Boot DevTools
+
+Banco de Dados(usar só mais pra frente)
+postgre 
+my sql 
+my add
+data jpa
+
+COMANDOS
+pra mudar a porta do projeto:
+src/main/resources/no application.properties
+server.port=8080

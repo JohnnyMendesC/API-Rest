@@ -1,0 +1,16 @@
+package br.com.serratec.entity;
+
+import jakarta.persistence.Embeddable;
+
+@Embeddable // foi incorporada em outra classe
+public class Caracteristica {
+	private String renavam;
+	private String chassi;
+	private Integer ano;
+	private String cor;
+	private Categoria categoria;
+	
+	
+	//Getters Setters
+	
+}

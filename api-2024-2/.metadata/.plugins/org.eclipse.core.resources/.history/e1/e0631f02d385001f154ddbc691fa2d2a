@@ -1,0 +1,14 @@
+package br.com.serratec.enums;
+
+public enum Categoria {
+	SUV, HATCH, SEDAN, CONVERSIVEL, PICAPE, ESPORTIVO, COUPE
+	
+	@JasonCreator
+	public static Categoria verificar(String valor) {
+		for (Categoria c: Categoria.values()) {
+			if (c.equals(valor))
+				return c;
+		}
+	}
+	throw new EnumException("Categoria inválida");
+}

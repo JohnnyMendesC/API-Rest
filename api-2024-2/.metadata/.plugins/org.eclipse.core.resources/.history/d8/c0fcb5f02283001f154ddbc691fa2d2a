@@ -1,0 +1,6 @@
+spring.application.name=aula-03-treino
+spring.datasource.url=jdbc:postgresql://localhost:5432/exercicio0
+spring.datasource.username = postgres
+spring.datasource.password=serratec*24
+spring.jpa.show-sql=true
+spring.jpa.hibernate.ddl-auto=create
