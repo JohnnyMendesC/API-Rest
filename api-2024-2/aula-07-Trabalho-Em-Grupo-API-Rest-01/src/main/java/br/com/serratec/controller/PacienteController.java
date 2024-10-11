@@ -18,6 +18,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import br.com.serratec.entity.Consulta;
 import br.com.serratec.entity.Paciente;
+import br.com.serratec.exception.CamposInvalidosException;
 import br.com.serratec.repository.ConsultaRepository;
 import br.com.serratec.repository.PacienteRepository;
 import jakarta.validation.Valid;
@@ -35,7 +36,12 @@ public class PacienteController {
 	@PostMapping
 	@ResponseStatus(HttpStatus.CREATED)
 	public Paciente inserirPaciente(@Valid @RequestBody Paciente paciente) {
-		return repository.save(paciente);
+		if(true) {
+			return repository.save(paciente);
+		}
+		else {
+		throw new CamposInvalidosException("Teste01", "Erroteste01");
+		}
 	}
 	
 	//ATUALIZAR UM PACIENTE

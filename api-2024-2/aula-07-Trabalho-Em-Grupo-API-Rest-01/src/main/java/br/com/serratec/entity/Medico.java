@@ -13,6 +13,7 @@ import jakarta.persistence.Id;
 import jakarta.persistence.OneToMany;
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
+import jakarta.validation.constraints.Pattern;
 import jakarta.validation.constraints.Size;
 
 @Entity
@@ -40,7 +41,7 @@ public class Medico {
 
 	@NotBlank(message = "Preenchimento obrigatório")
 	@Size(max = 15, min = 10)
-//	@Pattern(regexp = "(\\d{2}) \\d{5}-\\d{4}", message = "Telefone deve conter apenas números")
+	@Pattern(regexp="\\d{2} (\\d{5}|\\d{4})-\\d{4}")
 	private String telefone;
 
 //	// Foreign Keys

@@ -3,6 +3,14 @@
 	<item key="hasShownOverlayPopupBefore" value="true"/>
 	<item key="replaceBarOpen" value="true"/>
 	<list key="searchhistory">
+		<item value="paciente"/>
+		<item value="C"/>
+		<item value="Consulta"/>
+		<item value="consulta"/>
+		<item value="P"/>
+		<item value="Cliente"/>
+		<item value="cliente"/>
+		<item value="private"/>
 		<item value="manutencao"/>
 		<item value="m"/>
 		<item value="Manutencao"/>
@@ -10,27 +18,22 @@
 		<item value="Proprietario"/>
 		<item value="p"/>
 		<item value="Proprietarios"/>
-		<item value="proprietarios"/>
-		<item value="proprietario"/>
-		<item value="v"/>
-		<item value="veiculo"/>
-		<item value="Veiculo"/>
-		<item value="produtos"/>
-		<item value="Produto"/>
 	</list>
 	<list key="replacehistory">
+		<item value="medico"/>
+		<item value="m"/>
+		<item value="Medico"/>
+		<item value="p"/>
+		<item value="P"/>
+		<item value="Paciente"/>
+		<item value="paciente"/>
+		<item value="Consulta"/>
+		<item value="consulta"/>
+		<item value="protected"/>
 		<item value="servico"/>
 		<item value="s"/>
 		<item value="Servico"/>
 		<item value="servicos"/>
 		<item value="Manutencao"/>
-		<item value="m"/>
-		<item value="manutencoes"/>
-		<item value="veiculo"/>
-		<item value="p"/>
-		<item value="proprietario"/>
-		<item value="Proprietario"/>
-		<item value="veiculos"/>
-		<item value="Veiculo"/>
 	</list>
 </section>

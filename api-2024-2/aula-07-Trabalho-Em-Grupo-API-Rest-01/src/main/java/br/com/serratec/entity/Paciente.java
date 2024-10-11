@@ -31,7 +31,7 @@ public class Paciente {
 
 	@NotBlank(message = "Preenchimento obrigatório")
 	@Size(max = 15, min = 10)
-//	@Pattern(regexp="(\\d{2}) \\d{5}-\\d{4}")
+	@Pattern(regexp="\\d{2} (\\d{5}|\\d{4})-\\d{4}")
 	private String telefone;
 
 //	//Foreign Keys

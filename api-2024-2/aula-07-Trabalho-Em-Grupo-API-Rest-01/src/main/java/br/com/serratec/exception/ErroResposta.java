@@ -3,7 +3,7 @@ package br.com.serratec.exception;
 import java.time.LocalDateTime;
 import java.util.List;
 
-public class ErroResposta {	
+public class ErroResposta {	//Formatador do erro resposta
 	
 	//Atributos
 	private Integer status;

@@ -12,6 +12,7 @@ import org.springframework.validation.FieldError;
 import org.springframework.web.HttpMediaTypeNotSupportedException;
 import org.springframework.web.bind.MethodArgumentNotValidException;
 import org.springframework.web.bind.annotation.ControllerAdvice;
+import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.context.request.WebRequest;
 import org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler;
 
@@ -44,5 +45,12 @@ public class ControllerExceptionHandler extends ResponseEntityExceptionHandler {
 	protected ResponseEntity<Object> handleHttpMediaTypeNotSupported(HttpMediaTypeNotSupportedException ex,
 			HttpHeaders headers, HttpStatusCode status, WebRequest request) {
 		return super.handleHttpMediaTypeNotSupported(ex, headers, status, request);
+	}
+	
+	@ExceptionHandler(CamposInvalidosException.class)
+	public ResponseEntity<Object> handleCamposInvalidosException(CamposInvalidosException exception){
+		ErroResposta erroResposta = new ErroResposta(400, "Existem campos inválidos", LocalDateTime.now(),List.of(exception.getError()));
+				
+		return ResponseEntity.status(400).body(erroResposta);
 	}
 }
