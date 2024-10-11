@@ -16,7 +16,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 
-import br.com.serratec.entity.Cliente;
 import br.com.serratec.entity.Veiculo;
 import br.com.serratec.repository.VeiculoRepository;
 import jakarta.validation.Valid;

@@ -17,7 +17,6 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 
 import br.com.serratec.entity.Manutencao;
-import br.com.serratec.entity.Veiculo;
 import br.com.serratec.repository.ManutencaoRepository;
 import jakarta.validation.Valid;
 

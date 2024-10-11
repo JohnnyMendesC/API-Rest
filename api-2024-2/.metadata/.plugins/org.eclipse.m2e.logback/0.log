@@ -2260,3 +2260,528 @@ org.eclipse.core.runtime.CoreException: Launch configuration Aula04ValidacaoAppl
 2024-10-09 21:06:29,479 [Worker-579: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-10-09 21:06:29,489 [Worker-579: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-10-09 21:06:29,493 [Worker-579: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-05-h2\src\test\resources
+2024-10-10 17:56:08,887 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-10-10 18:24:31,776 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 18:24:31,793 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 18:24:31,799 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-05-h2\src\test\resources
+2024-10-10 18:34:11,371 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 18:34:11,378 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 18:34:11,382 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-05-h2\src\test\resources
+2024-10-10 18:37:13,723 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 18:37:13,729 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 18:37:13,732 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-05-h2\src\test\resources
+2024-10-10 18:37:15,228 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 18:37:15,246 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 18:37:15,250 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-05-h2\src\test\resources
+2024-10-10 18:38:03,673 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 18:38:03,680 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 18:38:03,684 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-05-h2\src\test\resources
+2024-10-10 18:39:43,122 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 18:39:43,129 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 18:39:43,133 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-05-h2\src\test\resources
+2024-10-10 18:39:51,894 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 18:39:51,900 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 18:39:51,903 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-05-h2\src\test\resources
+2024-10-10 18:39:53,026 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 18:39:53,034 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 18:39:53,039 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-05-h2\src\test\resources
+2024-10-10 18:43:29,781 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 18:43:29,788 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 18:43:29,792 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-05-h2\src\test\resources
+2024-10-10 18:45:30,337 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 18:45:30,346 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 18:45:30,350 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-05-h2\src\test\resources
+2024-10-10 18:46:39,732 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 18:46:39,740 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 18:46:39,746 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-05-h2\src\test\resources
+2024-10-10 18:46:42,536 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 18:46:42,542 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 18:46:42,545 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-05-h2\src\test\resources
+2024-10-10 18:47:11,853 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 18:47:11,859 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 18:47:11,863 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-05-h2\src\test\resources
+2024-10-10 18:47:48,003 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 18:47:48,010 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 18:47:48,014 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-05-h2\src\test\resources
+2024-10-10 18:48:28,678 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 18:48:28,684 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 18:48:28,687 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-05-h2\src\test\resources
+2024-10-10 18:49:12,283 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 18:49:12,290 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 18:49:12,293 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-05-h2\src\test\resources
+2024-10-10 18:49:17,463 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 18:49:17,470 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 18:49:17,473 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-05-h2\src\test\resources
+2024-10-10 18:55:43,230 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 18:55:43,237 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 18:55:43,242 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-05-h2\src\test\resources
+2024-10-10 18:56:19,182 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 18:56:19,190 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 18:56:19,194 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-05-h2\src\test\resources
+2024-10-10 18:56:20,295 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 18:56:20,302 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 18:56:20,305 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-05-h2\src\test\resources
+2024-10-10 18:56:50,822 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 18:56:50,831 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 18:56:50,834 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-05-h2\src\test\resources
+2024-10-10 19:22:08,679 [Worker-25: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.serratec:aula-04-validacao:0.0.1-SNAPSHOT @ C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-04-validacao\pom.xml.
+2024-10-10 19:22:10,669 [Worker-40: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.serratec:aula-04-validacao:0.0.1-SNAPSHOT @ C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-04-validacao\pom.xml.
+2024-10-10 19:22:47,455 [Worker-44: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.serratec:aula-03-orm:0.0.1-SNAPSHOT @ C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-03-orm\pom.xml.
+2024-10-10 19:22:49,265 [Worker-25: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.serratec:aula-03-orm:0.0.1-SNAPSHOT @ C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-03-orm\pom.xml.
+2024-10-10 19:32:33,545 [Worker-56: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.serratec:aula-07-Trabalho-Em-Grupo-API-Rest-01:0.0.1-SNAPSHOT @ C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\pom.xml.
+2024-10-10 19:32:34,781 [Worker-56: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /aula-07-Trabalho-Em-Grupo-API-Rest-01/src/main/java
+2024-10-10 19:32:34,783 [Worker-56: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /aula-07-Trabalho-Em-Grupo-API-Rest-01/src/main/resources
+2024-10-10 19:32:34,789 [Worker-56: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /aula-07-Trabalho-Em-Grupo-API-Rest-01/src/main/resources
+2024-10-10 19:32:34,794 [Worker-56: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /aula-07-Trabalho-Em-Grupo-API-Rest-01/src/test/java
+2024-10-10 19:32:34,796 [Worker-56: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /aula-07-Trabalho-Em-Grupo-API-Rest-01/src/test/resources
+2024-10-10 19:32:35,341 [Worker-56: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2024-10-10 19:32:35,345 [Worker-56: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-10 19:32:35,737 [Worker-56: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.serratec:aula-07-Trabalho-Em-Grupo-API-Rest-01:0.0.1-SNAPSHOT @ C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\pom.xml.
+2024-10-10 19:32:36,452 [Worker-56: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /aula-07-Trabalho-Em-Grupo-API-Rest-01/src/main/java
+2024-10-10 19:32:36,453 [Worker-56: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /aula-07-Trabalho-Em-Grupo-API-Rest-01/src/main/resources
+2024-10-10 19:32:36,454 [Worker-56: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /aula-07-Trabalho-Em-Grupo-API-Rest-01/src/main/resources
+2024-10-10 19:32:36,454 [Worker-56: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /aula-07-Trabalho-Em-Grupo-API-Rest-01/src/test/java
+2024-10-10 19:32:36,455 [Worker-56: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /aula-07-Trabalho-Em-Grupo-API-Rest-01/src/test/resources
+2024-10-10 19:32:36,833 [Worker-56: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 1,00 sec, update config takes 0,00 sec 
+2024-10-10 19:32:37,269 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 19:32:37,290 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 19:32:37,298 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 19:33:53,228 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 19:33:53,243 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 19:33:53,247 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-04-validacao\src\test\resources
+2024-10-10 19:33:58,384 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 19:33:58,392 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 19:33:58,394 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 19:38:22,939 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 19:38:22,945 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 19:38:22,948 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 19:49:51,152 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 19:49:51,166 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 19:49:51,171 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 20:01:25,133 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 20:01:25,142 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 20:01:25,147 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 20:01:34,765 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 20:01:34,782 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 20:01:34,785 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 20:08:47,850 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 20:08:47,860 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 20:08:47,865 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 20:14:51,515 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 20:14:51,522 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 20:14:51,525 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 20:32:52,668 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 20:32:52,675 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 20:32:52,678 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 20:35:33,459 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 20:35:33,477 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 20:35:33,483 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 20:37:10,008 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 20:37:10,013 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 20:37:10,017 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 20:37:13,074 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 20:37:13,081 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 20:37:13,085 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 20:37:33,726 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 20:37:33,731 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 20:37:33,735 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 21:23:34,291 [Worker-81: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.serratec:aula-02:0.0.1-SNAPSHOT @ C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-02\pom.xml.
+2024-10-10 21:23:35,731 [Worker-85: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.serratec:aula-02:0.0.1-SNAPSHOT @ C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-02\pom.xml.
+2024-10-10 21:24:14,210 [Worker-85: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.serratec:aula-03-treino:0.0.1-SNAPSHOT @ C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-03-treino\pom.xml.
+2024-10-10 21:24:15,695 [Worker-84: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.serratec:aula-03-treino:0.0.1-SNAPSHOT @ C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-03-treino\pom.xml.
+2024-10-10 21:24:31,029 [Worker-83: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.serratec:aula-01:0.0.1-SNAPSHOT @ C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-01\pom.xml.
+2024-10-10 21:24:31,651 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 21:24:31,665 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 21:24:31,670 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-01\src\test\resources
+2024-10-10 21:24:32,713 [Worker-85: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.serratec:aula-01:0.0.1-SNAPSHOT @ C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-01\pom.xml.
+2024-10-10 21:26:25,930 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 21:26:25,937 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 21:26:25,940 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 21:41:03,904 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 21:41:03,912 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 21:41:03,915 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 21:50:07,022 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 21:50:07,029 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 21:50:07,032 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 21:50:18,297 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 21:50:18,302 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 21:50:18,306 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 21:50:28,182 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 21:50:28,188 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 21:50:28,191 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 21:52:27,790 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 21:52:27,807 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 21:52:27,810 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 21:53:02,800 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 21:53:02,806 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 21:53:02,809 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 21:53:49,790 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 21:53:49,796 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 21:53:49,799 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 21:57:18,337 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 21:57:18,345 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 21:57:18,348 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 22:00:11,111 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 22:00:11,125 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 22:00:11,129 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 22:04:17,495 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 22:04:17,503 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 22:04:17,507 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 22:07:11,591 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 22:07:11,601 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 22:07:11,635 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 22:20:31,687 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 22:20:31,700 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 22:20:31,703 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 22:23:43,614 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 22:23:43,621 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 22:23:43,624 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 22:27:52,655 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 22:27:52,665 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 22:27:52,671 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 22:29:29,163 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 22:29:29,173 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 22:29:29,177 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 22:38:34,381 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 22:38:34,388 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 22:38:34,391 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 22:38:40,113 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 22:38:40,121 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 22:38:40,125 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 22:39:18,888 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 22:39:18,894 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 22:39:18,897 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 22:39:25,240 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 22:39:25,247 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 22:39:25,250 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 22:40:13,597 [Worker-117: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 22:40:13,603 [Worker-117: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 22:40:13,606 [Worker-117: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 22:40:20,239 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 22:40:20,246 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 22:40:20,249 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 22:40:33,092 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 22:40:33,098 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 22:40:33,101 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 22:40:44,680 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 22:40:44,685 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 22:40:44,688 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 22:40:48,452 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 22:40:48,458 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 22:40:48,461 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 22:40:55,450 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 22:40:55,456 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 22:40:55,459 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 22:40:57,376 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 22:40:57,382 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 22:40:57,385 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 22:42:13,325 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 22:42:13,331 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 22:42:13,335 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 22:42:59,495 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 22:42:59,501 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 22:42:59,505 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 22:44:58,306 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 22:44:58,314 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 22:44:58,318 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 22:45:04,649 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 22:45:04,655 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 22:45:04,658 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 22:46:45,096 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 22:46:45,101 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 22:46:45,104 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 22:48:34,346 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 22:48:34,352 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 22:48:34,355 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 22:59:13,454 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 22:59:13,468 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 22:59:13,471 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 23:05:06,200 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 23:05:06,206 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 23:05:06,209 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 23:06:34,509 [Worker-128: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Aula04ValidacaoApplication references closed project aula-04-validacao
+org.eclipse.core.runtime.CoreException: Launch configuration Aula04ValidacaoApplication references closed project aula-04-validacao
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1870)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1744)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:219)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:203)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-10-10 23:06:34,586 [Worker-128: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Aula04ValidacaoApplication references closed project aula-04-validacao
+org.eclipse.core.runtime.CoreException: Launch configuration Aula04ValidacaoApplication references closed project aula-04-validacao
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1870)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1744)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:219)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:203)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-10-10 23:06:34,590 [Worker-128: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Aula04ValidacaoApplication references closed project aula-04-validacao
+org.eclipse.core.runtime.CoreException: Launch configuration Aula04ValidacaoApplication references closed project aula-04-validacao
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1870)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1744)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:219)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:203)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:1960)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:380)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-10-10 23:13:13,351 [Worker-132: Launching aula-07-Trabalho-Em-Grupo-API-Rest-01 - Aula07TrabalhoEmGrupoApiRest01Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 23:13:13,357 [Worker-132: Launching aula-07-Trabalho-Em-Grupo-API-Rest-01 - Aula07TrabalhoEmGrupoApiRest01Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 23:13:13,360 [Worker-132: Launching aula-07-Trabalho-Em-Grupo-API-Rest-01 - Aula07TrabalhoEmGrupoApiRest01Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 23:14:06,442 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 23:14:06,449 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 23:14:06,452 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 23:14:59,549 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 23:14:59,557 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 23:14:59,559 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 23:22:48,372 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 23:22:48,378 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 23:22:48,381 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 23:25:18,350 [Worker-145: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 23:25:18,356 [Worker-145: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 23:25:18,359 [Worker-145: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 23:26:48,196 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 23:26:48,203 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 23:26:48,206 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 23:29:02,718 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 23:29:02,725 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 23:29:02,727 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 23:33:04,318 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 23:33:04,324 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 23:33:04,327 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 23:40:15,973 [Worker-155: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 23:40:15,979 [Worker-155: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 23:40:15,982 [Worker-155: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 23:40:21,895 [Worker-155: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 23:40:21,900 [Worker-155: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 23:40:21,902 [Worker-155: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 23:42:23,016 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 23:42:23,022 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 23:42:23,025 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 23:43:25,917 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 23:43:25,923 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 23:43:25,926 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 23:43:49,425 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 23:43:49,430 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 23:43:49,433 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 23:43:54,882 [Worker-159: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 23:43:54,896 [Worker-159: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 23:43:54,898 [Worker-159: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 23:44:35,944 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 23:44:35,950 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 23:44:35,952 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 23:47:06,926 [Worker-160: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 23:47:06,931 [Worker-160: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 23:47:06,935 [Worker-160: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 23:47:49,393 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 23:47:49,399 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 23:47:49,402 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 23:51:17,828 [Worker-161: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 23:51:17,835 [Worker-161: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 23:51:17,838 [Worker-161: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 23:52:09,238 [Worker-152: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 23:52:09,243 [Worker-152: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 23:52:09,246 [Worker-152: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 23:55:46,445 [Worker-166: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 23:55:46,451 [Worker-166: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 23:55:46,454 [Worker-166: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 23:56:12,528 [Worker-163: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 23:56:12,534 [Worker-163: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 23:56:12,537 [Worker-163: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-10 23:56:29,526 [Worker-157: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-10 23:56:29,531 [Worker-157: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-10 23:56:29,534 [Worker-157: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 11:55:29,265 [Worker-169: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.serratec:aula-05-h2:0.0.1-SNAPSHOT @ C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-05-h2\pom.xml.
+2024-10-11 11:55:30,447 [Worker-169: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 11:55:30,490 [Worker-169: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 11:55:30,500 [Worker-169: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-05-h2\src\test\resources
+2024-10-11 11:55:30,855 [Worker-174: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.serratec:aula-05-h2:0.0.1-SNAPSHOT @ C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-05-h2\pom.xml.
+2024-10-11 12:00:11,405 [Worker-172: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 12:00:11,410 [Worker-172: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 12:00:11,414 [Worker-172: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 12:02:38,554 [Worker-174: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 12:02:38,563 [Worker-174: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 12:02:38,566 [Worker-174: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 12:07:04,623 [Worker-181: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 12:07:04,629 [Worker-181: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 12:07:04,632 [Worker-181: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 12:20:03,752 [Worker-184: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 12:20:03,759 [Worker-184: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 12:20:03,761 [Worker-184: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 12:20:39,834 [Worker-185: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 12:20:39,840 [Worker-185: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 12:20:39,842 [Worker-185: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 12:22:20,194 [Worker-184: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 12:22:20,201 [Worker-184: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 12:22:20,204 [Worker-184: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 12:23:53,815 [Worker-187: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 12:23:53,821 [Worker-187: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 12:23:53,825 [Worker-187: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 12:23:58,329 [Worker-190: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 12:23:58,335 [Worker-190: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 12:23:58,338 [Worker-190: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 12:25:47,150 [Worker-187: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 12:25:47,155 [Worker-187: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 12:25:47,158 [Worker-187: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 12:25:48,946 [Worker-189: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 12:25:48,953 [Worker-189: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 12:25:48,956 [Worker-189: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 12:29:31,403 [Worker-190: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 12:29:31,413 [Worker-190: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 12:29:31,416 [Worker-190: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 12:30:30,665 [Worker-195: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 12:30:30,671 [Worker-195: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 12:30:30,674 [Worker-195: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 12:31:02,518 [Worker-195: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 12:31:02,525 [Worker-195: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 12:31:02,528 [Worker-195: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 12:37:45,904 [Worker-190: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 12:37:45,910 [Worker-190: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 12:37:45,913 [Worker-190: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 14:42:44,252 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 14:42:44,266 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 14:42:44,271 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 14:43:27,392 [Worker-204: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 14:43:27,402 [Worker-204: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 14:43:27,407 [Worker-204: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 14:43:40,247 [Worker-206: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 14:43:40,262 [Worker-206: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 14:43:40,265 [Worker-206: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 14:43:46,305 [Worker-207: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 14:43:46,319 [Worker-207: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 14:43:46,322 [Worker-207: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 14:48:00,154 [Worker-210: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 14:48:00,191 [Worker-210: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 14:48:00,196 [Worker-210: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 14:54:04,604 [Worker-215: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 14:54:04,614 [Worker-215: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 14:54:04,617 [Worker-215: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 14:54:19,212 [Worker-205: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 14:54:19,218 [Worker-205: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 14:54:19,221 [Worker-205: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 15:00:19,648 [Worker-220: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 15:00:19,656 [Worker-220: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 15:00:19,659 [Worker-220: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 15:00:34,254 [Worker-220: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 15:00:34,260 [Worker-220: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 15:00:34,263 [Worker-220: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 15:01:46,018 [Worker-215: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 15:01:46,026 [Worker-215: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 15:01:46,030 [Worker-215: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 15:09:58,720 [Worker-223: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 15:09:58,724 [Worker-223: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 15:09:58,730 [Worker-223: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 15:09:59,985 [Worker-222: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.serratec:aula-07-Trabalho-Em-Grupo-API-Rest-01:0.0.1-SNAPSHOT @ C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-1bkp\pom.xml.
+2024-10-11 15:10:01,416 [Worker-222: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 15:10:01,445 [Worker-222: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 15:10:01,452 [Worker-222: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-1bkp\src\test\resources
+2024-10-11 15:10:02,806 [Worker-215: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 15:10:02,809 [Worker-215: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 15:10:02,813 [Worker-215: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-1bkp\src\test\resources
+2024-10-11 15:24:40,738 [Worker-239: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 15:24:40,744 [Worker-239: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 15:24:40,748 [Worker-239: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 15:24:41,823 [Worker-232: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 15:24:41,831 [Worker-232: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 15:24:41,834 [Worker-232: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 15:25:47,190 [Worker-232: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 15:25:47,195 [Worker-232: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 15:25:47,200 [Worker-232: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 15:27:47,136 [Worker-236: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 15:27:47,142 [Worker-236: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 15:27:47,145 [Worker-236: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 15:29:01,012 [Worker-241: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 15:29:01,038 [Worker-241: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 15:29:01,044 [Worker-241: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 15:29:54,598 [Worker-239: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 15:29:54,604 [Worker-239: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 15:29:54,606 [Worker-239: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 15:37:49,225 [Worker-247: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.serratec:aula-05-h2:0.0.1-SNAPSHOT @ C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-05-h2\pom.xml.
+2024-10-11 15:39:55,733 [Worker-252: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 15:39:55,740 [Worker-252: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 15:39:55,744 [Worker-252: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 15:39:58,694 [Worker-248: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 15:39:58,700 [Worker-248: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 15:39:58,703 [Worker-248: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 15:40:11,893 [Worker-246: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 15:40:11,900 [Worker-246: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 15:40:11,905 [Worker-246: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 15:42:16,395 [Worker-238: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 15:42:16,400 [Worker-238: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 15:42:16,403 [Worker-238: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 15:44:58,736 [Worker-249: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 15:44:58,742 [Worker-249: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 15:44:58,745 [Worker-249: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 15:45:03,972 [Worker-248: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 15:45:03,978 [Worker-248: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 15:45:03,981 [Worker-248: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 15:45:14,554 [Worker-251: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 15:45:14,562 [Worker-251: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 15:45:14,566 [Worker-251: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 15:45:21,505 [Worker-251: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 15:45:21,512 [Worker-251: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 15:45:21,515 [Worker-251: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 15:45:23,165 [Worker-246: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 15:45:23,170 [Worker-246: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 15:45:23,173 [Worker-246: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 15:46:08,950 [Worker-249: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 15:46:08,957 [Worker-249: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 15:46:08,960 [Worker-249: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 15:46:21,589 [Worker-248: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 15:46:21,595 [Worker-248: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 15:46:21,598 [Worker-248: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 15:47:25,944 [Worker-246: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 15:47:25,959 [Worker-246: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 15:47:25,963 [Worker-246: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 15:47:56,604 [Worker-252: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 15:47:56,622 [Worker-252: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 15:47:56,625 [Worker-252: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 15:59:37,299 [Worker-256: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 15:59:37,306 [Worker-256: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 15:59:37,309 [Worker-256: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
+2024-10-11 16:24:26,154 [Worker-261: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-11 16:24:26,161 [Worker-261: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-11 16:24:26,165 [Worker-261: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Johnny\Documents\SERRATEC-2024-2\API\api-2024-2\aula-07-Trabalho-Em-Grupo-API-Rest-01\src\test\resources
