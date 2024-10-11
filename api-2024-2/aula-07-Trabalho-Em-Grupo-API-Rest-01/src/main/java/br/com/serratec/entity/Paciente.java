@@ -3,7 +3,6 @@ package br.com.serratec.entity;
 import java.util.Set;
 
 import com.fasterxml.jackson.annotation.JsonBackReference;
-import com.fasterxml.jackson.annotation.JsonManagedReference;
 
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Entity;
@@ -13,6 +12,7 @@ import jakarta.persistence.Id;
 import jakarta.persistence.OneToMany;
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
+import jakarta.validation.constraints.Pattern;
 import jakarta.validation.constraints.Size;
 
 @Entity
@@ -30,8 +30,8 @@ public class Paciente {
 	private String email;
 
 	@NotBlank(message = "Preenchimento obrigatório")
-	@Size(max = 11, min = 10)
-//	@Pattern(regexp="(\\d{2}) \\d{5}-\\d{4}", message = "Telefone deve conter apenas números")
+	@Size(max = 15, min = 10)
+//	@Pattern(regexp="(\\d{2}) \\d{5}-\\d{4}")
 	private String telefone;
 
 //	//Foreign Keys

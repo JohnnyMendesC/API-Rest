@@ -1,5 +1,6 @@
 package br.com.serratec.controller;
 
+import java.util.List;
 import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -15,13 +16,18 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 
+import br.com.serratec.entity.Consulta;
 import br.com.serratec.entity.Paciente;
+import br.com.serratec.repository.ConsultaRepository;
 import br.com.serratec.repository.PacienteRepository;
 import jakarta.validation.Valid;
 
 @RestController
 @RequestMapping("/pacientes")
 public class PacienteController {
+    @Autowired
+    private ConsultaRepository consultaRepository;	
+	
 	@Autowired
 	private PacienteRepository repository;
 	
@@ -53,6 +59,11 @@ public class PacienteController {
 	}
 	
 	//LISTAR UM PACIENTE E SUAS CONSULTAS
+    @GetMapping("/{pacienteId}/consultas")
+    public List<Consulta> getConsultasByPacienteId(@PathVariable Long pacienteId) {
+        return consultaRepository.findByPacienteId(pacienteId);
+    }
+	
 	@GetMapping("{id}")
 	public ResponseEntity<Paciente> exibirItem(@PathVariable Long id) {
 		Optional<Paciente> pacienteOptional = repository.findById(id);

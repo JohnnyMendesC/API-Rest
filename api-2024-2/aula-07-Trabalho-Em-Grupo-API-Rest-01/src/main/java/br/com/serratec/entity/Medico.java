@@ -39,7 +39,7 @@ public class Medico {
 	private String email;
 
 	@NotBlank(message = "Preenchimento obrigatório")
-	@Size(max = 11, min = 10)
+	@Size(max = 15, min = 10)
 //	@Pattern(regexp = "(\\d{2}) \\d{5}-\\d{4}", message = "Telefone deve conter apenas números")
 	private String telefone;
 

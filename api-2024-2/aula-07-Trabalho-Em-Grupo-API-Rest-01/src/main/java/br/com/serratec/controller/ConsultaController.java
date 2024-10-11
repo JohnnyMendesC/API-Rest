@@ -60,7 +60,7 @@ public class ConsultaController {
 		}
 		return ResponseEntity.notFound().build();
 	}
-	
+
 	//DELETA CONSULTA
 	@DeleteMapping("{id}")
 	public ResponseEntity<Void> apagarConsulta(@PathVariable Long id) {
